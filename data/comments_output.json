@@ -1,0 +1,136 @@
+{
+    "results": [
+        {
+            "id": 101,
+            "author": "Марина В.",
+            "case": "Жалоба (RU)",
+            "text": "Это просто ужасно! Второй день интернет работает с перебоями в Астане. Невозможно работать!",
+            "language": "ru",
+            "moderation_verdict": "ok",
+            "sentiment": "negative",
+            "comment_type": "complaint",
+            "suggested_answer": "Добрый день. Нам очень жаль, что вы столкнулись с такой ситуацией. Пожалуйста, напишите нам в личные сообщения, чтобы мы могли разобраться в проблеме."
+        },
+        {
+            "id": 102,
+            "author": "Артем",
+            "case": "Вопрос (RU)",
+            "text": "Здравствуйте, подскажите пожалуйста, как я могу посмотреть остаток трафика по моему тарифу?",
+            "language": "ru",
+            "moderation_verdict": "ok",
+            "sentiment": "neutral",
+            "comment_type": "question",
+            "suggested_answer": "Информацию о смене тарифа вы можете найти в личном кабинете или мобильном приложении. Если у вас возникли трудности, мы готовы помочь."
+        },
+        {
+            "id": 103,
+            "author": "Ольга",
+            "case": "Благодарность (RU)",
+            "text": "Хочу сказать огромное спасибо вашему сотруднику Павлу из колл-центра! Помог быстро настроить роутер!",
+            "language": "ru",
+            "moderation_verdict": "ok",
+            "sentiment": "positive",
+            "comment_type": "gratitude",
+            "suggested_answer": "Спасибо за ваш отзыв! Мы очень рады, что вам понравилось."
+        },
+        {
+            "id": 104,
+            "author": "Profit King",
+            "case": "Спам (RU)",
+            "text": "Реальный заработок на крипте! Переходи на мой канал www.super-crypto-invest.com и стань богатым!",
+            "language": "ru",
+            "moderation_verdict": "spam",
+            "sentiment": "N/A",
+            "comment_type": "N/A",
+            "suggested_answer": "Комментарий был скрыт, так как он нарушает правила сообщества."
+        },
+        {
+            "id": 105,
+            "author": "Георгий",
+            "case": "Оскорбление (RU)",
+            "text": "Вы мошенники, а не оператор! Верните деньги, воры!",
+            "language": "ru",
+            "moderation_verdict": "ok",
+            "sentiment": "negative",
+            "comment_type": "feedback",
+            "suggested_answer": "Благодарим за то, что поделились своим мнением! Мы обязательно учтем ваш отзыв."
+        },
+        {
+            "id": 201,
+            "author": "Айгүл",
+            "case": "Благодарность (KZ)",
+            "text": "Керемет! Қызмет көрсету сапасы өте жоғары. Рахмет сіздерге!",
+            "language": "kk",
+            "moderation_verdict": "ok",
+            "sentiment": "positive",
+            "comment_type": "gratitude",
+            "suggested_answer": "Пікіріңізге рахмет! Сізге ұнағанына қуаныштымыз."
+        },
+        {
+            "id": 202,
+            "author": "Бауыржан",
+            "case": "Вопрос (KZ)",
+            "text": "Сәлеметсіз бе, менің нөмірімде роумингті қалай қосуға болады?",
+            "language": "kk",
+            "moderation_verdict": "ok",
+            "sentiment": "negative",
+            "comment_type": "question",
+            "suggested_answer": "Сәлеметсіз бе! Сұрағыңызға рахмет. Көмектесу үшін, мән-жайды нақтылап жібересіз бе."
+        },
+        {
+            "id": 203,
+            "author": "Ермек",
+            "case": "Жалоба (KZ)",
+            "text": "Неге менің интернетімнің жылдамдығы өте төмен? Бұл мүмкін емес.",
+            "language": "kk",
+            "moderation_verdict": "ok",
+            "sentiment": "negative",
+            "comment_type": "question",
+            "suggested_answer": "Сәлеметсіз бе! Сұрағыңызға рахмет. Көмектесу үшін, мән-жайды нақтылап жібересіз бе."
+        },
+        {
+            "id": 204,
+            "author": "Динара",
+            "case": "Отзыв (KZ)",
+            "text": "Жалпы, байланыс сапасы жаман емес, бірақ кейде нашарлайды.",
+            "language": "kk",
+            "moderation_verdict": "ok",
+            "sentiment": "positive",
+            "comment_type": "feedback",
+            "suggested_answer": "Пікіріңізбен бөліскеніңіз үшін алғыс айтамыз! Біз сіздің пікіріңізді міндетті түрде ескереміз."
+        },
+        {
+            "id": 301,
+            "author": "John Smith",
+            "case": "Вопрос (EN)",
+            "text": "Hello, where can I find your office addresses in Almaty?",
+            "language": "en",
+            "moderation_verdict": "ok",
+            "sentiment": "POSITIVE",
+            "comment_type": "feedback",
+            "suggested_answer": "Спасибо за ваше обращение! Thank you for your message!"
+        },
+        {
+            "id": 302,
+            "author": "Alice",
+            "case": "Благодарность (EN)",
+            "text": "The new mobile application is great, thank you!",
+            "language": "en",
+            "moderation_verdict": "ok",
+            "sentiment": "POSITIVE",
+            "comment_type": "gratitude",
+            "suggested_answer": "Спасибо за ваше обращение! Thank you for your message!"
+        },
+        {
+            "id": 303,
+            "author": "Mike L.",
+            "case": "Жалоба (EN)",
+            "text": "The connection is very unstable today. Please fix it as soon as possible.",
+            "language": "en",
+            "moderation_verdict": "ok",
+            "sentiment": "NEGATIVE",
+            "comment_type": "complaint",
+            "suggested_answer": "Спасибо за ваше обращение! Thank you for your message!"
+        }
+    ]
+}
